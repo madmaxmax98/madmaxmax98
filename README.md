@@ -35,19 +35,26 @@ Perfil analítico, organizado e com facilidade para resolução de problemas.
 ![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![API REST](https://img.shields.io/badge/API_REST-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF69B4?style=for-the-badge&logo=firebase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- Desenvolvimento Back-end
+- Desenvolvimento Front-end
+- Banco de Dados
+- Desenvolvimento Web
+- APIs REST
+- Versionamento de Código
+- Lógica de Programação
+- Análise de Sistemas
+- Desenvolvimento de Software
+- Dashboard e Visualização de Dados
 
 ---
 
@@ -61,8 +68,8 @@ Perfil analítico, organizado e com facilidade para resolução de problemas.
 
 ## 📫 Contato
 
-📧 seuemail@email.com
+📧 eianedianabr@outlook.com
 
-💼 LinkedIn: seu-linkedin
+💼 LinkedIn:[(https://www.linkedin.com/in/eiane-diana-366117382/)](https://www.linkedin.com/in/eiane-diana-366117382/)
 
 🐙 GitHub: https://github.com/madmaxmax98
