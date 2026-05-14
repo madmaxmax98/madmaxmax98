@@ -32,7 +32,6 @@ Possuo perfil analítico, organizado e facilidade para aprendizado e resolução
 
 # 🎓 Formação
 
-📚 Escola Estadual Olegário Maciel — 2016
 
 🎓 Análise e Desenvolvimento de Sistemas — Conclusão prevista para 2027
 
